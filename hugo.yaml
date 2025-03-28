@@ -3,4 +3,8 @@ languageCode: id
 title: Obskura
 theme: PaperMod
 
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Obskura</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Obskura</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>id</language>
+    <lastBuildDate>Fri, 28 Mar 2025 02:44:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pos Awal</title>
+      <link>http://localhost:1313/posts/pos-awal/</link>
+      <pubDate>Fri, 28 Mar 2025 02:44:16 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pos-awal/</guid>
+      <description>&lt;h2 id=&#34;bangsat&#34;&gt;Bangsat&lt;/h2&gt;
+&lt;p&gt;Website anjing tolol &lt;strong&gt;GOBLOK&lt;/strong&gt; IDOIT&amp;hellip;..&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SHIY&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

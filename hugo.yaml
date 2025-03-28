@@ -1,0 +1,11 @@
+baseURL: https://pahri.netlify.app/
+title: Obskura
+theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Tentang Repositori 
+    Content: Situs-web pribadi (blog) yang, secara *gratis*, .  
+defaultContentLanguage: id
+defaultContentLanguageInSubdir: false
+disableDefaultLanguageRedirect: false
+disableLanguages: []

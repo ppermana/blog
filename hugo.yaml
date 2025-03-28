@@ -1,4 +1,11 @@
 baseURL: https://pahri.netlify.app/
-languageCode: id
 title: Obskura
 theme: PaperMod
+params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about ... 
+defaultContentLanguage: id
+defaultContentLanguageInSubdir: false
+disableDefaultLanguageRedirect: false
+disableLanguages: []

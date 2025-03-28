@@ -3,8 +3,8 @@ title: Obskura
 theme: PaperMod
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about ... 
+    Title: Tentang Repositori 
+    Content: Situs-web pribadi (blog) yang, secara *gratis*, dibangun menggunakan [Hugo](https://gohugo.io/) dan dihosting oleh [Netlify](https://netlify.com/).  URL-nya adalah [https://pahri.netlify.app/](https://pahri.netlify.app/).  
 defaultContentLanguage: id
 defaultContentLanguageInSubdir: false
 disableDefaultLanguageRedirect: false

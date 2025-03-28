@@ -2,7 +2,7 @@
 date = '2025-03-28T02:44:16Z'
 draft = false
 title = 'Lorem Ipsum'
-ShowToc= true
+ShowToc = true
 +++
 # Bagian 1
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet augue at metus tempus, a dictum metus lacinia. Quisque aliquam laoreet erat auctor pretium. Nullam id fringilla nunc, sed pellentesque mauris. Aliquam nec venenatis nibh, eget hendrerit arcu. Nunc ut interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus posuere auctor lectus nec lobortis. Proin ultricies id justo sit amet ultrices. Integer ullamcorper ultricies malesuada. Ut vel tellus hendrerit, pretium tellus sit amet, imperdiet mi. Cras lectus nibh, convallis a bibendum a, lacinia lobortis nisi. Suspendisse consectetur scelerisque justo, eu pharetra justo ullamcorper porta. Praesent suscipit diam quis maximus convallis. Etiam ac eros purus. In hac habitasse platea dictumst. Nulla condimentum lorem purus, id fringilla mauris venenatis sed.

@@ -1,6 +1,0 @@
----
-title: "Ex11"
-date: 2025-03-29T04:30:54Z
-draft: true
----
-

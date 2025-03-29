@@ -1,62 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site?</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site?</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <title>Fycking</title>
+    <link>https://pahri.netlify.app/</link>
+    <description>Recent content on Fycking</description>
+    <generator>Hugo</generator>
     <language>id</language>
-    <lastBuildDate>Fri, 28 Mar 2025 09:37:04 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Mar 2025 01:32:32 +0000</lastBuildDate>
+    <atom:link href="https://pahri.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Ex5</title>
-      <link>http://localhost:1313/post/ex5/</link>
-      <pubDate>Fri, 28 Mar 2025 09:37:04 +0000</pubDate>
-      <guid>http://localhost:1313/post/ex5/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ex4</title>
-      <link>http://localhost:1313/post/ex4/</link>
-      <pubDate>Fri, 28 Mar 2025 09:37:01 +0000</pubDate>
-      <guid>http://localhost:1313/post/ex4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ex3</title>
-      <link>http://localhost:1313/post/ex3/</link>
-      <pubDate>Fri, 28 Mar 2025 09:36:57 +0000</pubDate>
-      <guid>http://localhost:1313/post/ex3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ex2</title>
-      <link>http://localhost:1313/post/ex2/</link>
-      <pubDate>Fri, 28 Mar 2025 09:36:51 +0000</pubDate>
-      <guid>http://localhost:1313/post/ex2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ex1</title>
-      <link>http://localhost:1313/post/ex1/</link>
-      <pubDate>Fri, 28 Mar 2025 09:36:45 +0000</pubDate>
-      <guid>http://localhost:1313/post/ex1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Konfigurasi Router</title>
-      <link>http://localhost:1313/post/konfigurasi-router/</link>
-      <pubDate>Fri, 28 Mar 2025 08:20:17 +0000</pubDate>
-      <guid>http://localhost:1313/post/konfigurasi-router/</guid>
-      <description>&lt;p&gt;Judulnya salah.&lt;/p&gt;</description>
+      <title>Konfigurasi LAN dengan Router Mikrotik</title>
+      <link>https://pahri.netlify.app/post/mencoba-format-metadata-tugas-sekolah/</link>
+      <pubDate>Sat, 29 Mar 2025 01:32:32 +0000</pubDate>
+      <guid>https://pahri.netlify.app/post/mencoba-format-metadata-tugas-sekolah/</guid>
+      <description>&lt;div class=&#34;document&#34; id=&#34;tugas-sekolah&#34;&gt;&#xA;&lt;h1 class=&#34;title&#34;&gt;Tugas Sekolah&lt;/h1&gt;&#xA;&#xA;&lt;p&gt;Oleh  Pahri Permana&lt;/p&gt;&#xA;&lt;p&gt;Kelas 12, TKJ, SMK Wiguna&lt;/p&gt;&#xA;&lt;hr class=&#34;docutils&#34; /&gt;&#xA;&lt;p&gt;Ada &lt;em&gt;x&lt;/em&gt; proses dalam membangun sebuah jaringan komputer, termasuk LAN, yaitu kalimat A; kalimat B; dan kalimat C.  Yang menjadi fokus dalam artikel ini adalah kalimat B.  Namun, dengan catatan bahwa&lt;/p&gt;&#xA;&lt;ol class=&#34;arabic simple&#34;&gt;&#xA;&lt;li&gt;Jaringan komputer ini adalah &lt;em&gt;x&lt;/em&gt;,&lt;/li&gt;&#xA;&lt;li&gt;Desain yang dipakai adalah &lt;em&gt;x&lt;/em&gt;, dan&lt;/li&gt;&#xA;&lt;li&gt;Komponen yang digunakan adalah &lt;em&gt;x&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Saya akan menjabarkan proses B tersebut secara langkah demi langkah: dimulai dari memasang WinBox hingga hasil pengkonfigurasian.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lorem Ipsum</title>
-      <link>http://localhost:1313/post/pos-awal/</link>
+      <link>https://pahri.netlify.app/post/pos-awal/</link>
       <pubDate>Fri, 28 Mar 2025 02:44:16 +0000</pubDate>
-      <guid>http://localhost:1313/post/pos-awal/</guid>
-      <description>&lt;h1 id=&#34;bagian-1&#34;&gt;Bagian 1&lt;/h1&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet augue at metus tempus, a dictum metus lacinia. Quisque aliquam laoreet erat auctor pretium. Nullam id fringilla nunc, sed pellentesque mauris. Aliquam nec venenatis nibh, eget hendrerit arcu. Nunc ut interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus posuere auctor lectus nec lobortis. Proin ultricies id justo sit amet ultrices. Integer ullamcorper ultricies malesuada. Ut vel tellus hendrerit, pretium tellus sit amet, imperdiet mi. Cras lectus nibh, convallis a bibendum a, lacinia lobortis nisi. Suspendisse consectetur scelerisque justo, eu pharetra justo ullamcorper porta. Praesent suscipit diam quis maximus convallis. Etiam ac eros purus. In hac habitasse platea dictumst. Nulla condimentum lorem purus, id fringilla mauris venenatis sed.&lt;/p&gt;</description>
+      <guid>https://pahri.netlify.app/post/pos-awal/</guid>
+      <description>&lt;div class=&#34;document&#34;&gt;&#xA;&#xA;&#xA;&lt;div class=&#34;contents local topic&#34; id=&#34;daftar-isi&#34;&gt;&#xA;&lt;p class=&#34;topic-title&#34;&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#top&#34;&gt;Daftar Isi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul class=&#34;simple&#34;&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#bagian-1&#34; id=&#34;toc-entry-1&#34;&gt;Bagian 1&lt;/a&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#subbagian-1&#34; id=&#34;toc-entry-2&#34;&gt;Subbagian 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#subbagian-2&#34; id=&#34;toc-entry-3&#34;&gt;Subbagian 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#bagian-2&#34; id=&#34;toc-entry-4&#34;&gt;Bagian 2&lt;/a&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#subbagian-1-1&#34; id=&#34;toc-entry-5&#34;&gt;Subbagian 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#subbagian-2-1&#34; id=&#34;toc-entry-6&#34;&gt;Subbagian 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a class=&#34;reference internal&#34; href=&#34;#subbagian-3&#34; id=&#34;toc-entry-7&#34;&gt;Subbagian 3&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;section&#34; id=&#34;bagian-1&#34;&gt;&#xA;&lt;h2&gt;&lt;a class=&#34;toc-backref&#34; href=&#34;#toc-entry-1&#34;&gt;Bagian 1&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus laoreet augue at metus tempus, a dictum metus lacinia. Quisque aliquam laoreet erat auctor pretium. Nullam id fringilla nunc, sed pellentesque mauris. Aliquam nec venenatis nibh, eget hendrerit arcu. Nunc ut interdum quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus posuere auctor lectus nec lobortis. Proin ultricies id justo sit amet ultrices. Integer ullamcorper ultricies malesuada. Ut vel tellus hendrerit, pretium tellus sit amet, imperdiet mi. Cras lectus nibh, convallis a bibendum a, lacinia lobortis nisi. Suspendisse consectetur scelerisque justo, eu pharetra justo ullamcorper porta. Praesent suscipit diam quis maximus convallis. Etiam ac eros purus. In hac habitasse platea dictumst. Nulla condimentum lorem purus, id fringilla mauris venenatis sed.&lt;/p&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>

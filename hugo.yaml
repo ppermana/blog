@@ -1,11 +1,59 @@
-baseURL: https://pahri.netlify.app/  
-title: My New Hugo Site?
-theme: PaperMod
+baseURL: https://pahri.netlify.app/
+languageCode: id
+theme: terminal
+pagination:
+  pagerSize: 5
+
+security:
+  exec:
+    allow:
+     - '^(dart-)?sass(-embedded)?$'
+     - '^go$'
+     - '^git$'
+     - '^npx$'
+     - '^postcss$'
+     - '^tailwindcss$'
+     - '^rst2html$'
+
 params:
-  homeInfoParams:
-    Title: Tentang Repositori  
-    Content: Situs-web pribadi (blog) yang, secara *gratis*, dibangun menggunakan [Hugo](https://gohugo.io/) dan dihosting oleh [Netlify](https://netlify.com/).  URL-nya adalah [https://pahri.netlify.app/](https://pahri.netlify.app/).  
+  contentTypeName: post
+  showMenuItems: 2
+  showLanguageSelector: false
+  fullWidthTheme: false
+  centerTheme: false
+  autoCover: true
+  showLastUpdated: false
+
 defaultContentLanguage: id
 defaultContentLanguageInSubdir: false
 disableDefaultLanguageRedirect: false
 disableLanguages: []
+
+languages:
+  id:
+   languageName: Bahasa Indonesia 
+   title: Fycking
+   params:
+    subtitle: A simple, retro theme for Hugg
+    owner: 
+    keywords: 
+    copyright: 
+    menuMore: Show more
+    readMore: Selengkapnya
+    readOtherPosts: Read other posts
+    newerPosts: Newer posts
+    olderPosts: Lebih lama
+    missingContentMessage: Page not found...
+    missingBackButtonLabel: Back to home page
+    minuteReadingTime: 
+    minReadWords: words
+    logo:
+     logoText: My New Hugo Site?
+     logoHomeLink: /
+    menu:
+     - identifier: about
+       name: About
+       url: /about
+     - identifier: showcase
+       name: Showcase
+       url: /showcase

@@ -1,0 +1,3 @@
+[build]
+  command = "pip install docutils && for file in content/**/*.rst; do rst2html.py \"$file\" \"${file%.rst}.html\"; done && hugo --gc --minify"
+  publish = "public"

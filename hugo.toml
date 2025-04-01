@@ -16,6 +16,10 @@ readingTime = false
 # Toc = false # default
 TocTitle = 'Daftar Isi' 
 
+[params.homeInfoParams]
+  Title = 'Hi there wave'
+  Content = 'Can be Info, links, about...'
+
 menuMore = 'Show more'
 readMore = 'Read more'
 readOtherPosts = 'Read other posts'

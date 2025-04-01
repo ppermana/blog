@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40351/post/laporan-pkl/</loc>
+    <loc>http://localhost:36179/post/laporan-pkl/</loc>
     <lastmod>2025-03-29T23:01:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/</loc>
+    <loc>http://localhost:36179/</loc>
     <lastmod>2025-03-29T23:01:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/post/</loc>
+    <loc>http://localhost:36179/post/</loc>
     <lastmod>2025-03-29T23:01:48+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/about/</loc>
+    <loc>http://localhost:36179/about/</loc>
     <lastmod>2025-03-29T22:33:08+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/post/mencoba-format-metadata-tugas-sekolah/</loc>
+    <loc>http://localhost:36179/post/mencoba-format-metadata-tugas-sekolah/</loc>
     <lastmod>2025-03-29T01:32:32+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/post/pos-awal/</loc>
+    <loc>http://localhost:36179/post/pos-awal/</loc>
     <lastmod>2025-03-28T02:44:16+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40351/categories/</loc>
+    <loc>http://localhost:36179/categories/</loc>
   </url><url>
-    <loc>http://localhost:40351/tags/</loc>
+    <loc>http://localhost:36179/tags/</loc>
   </url>
 </urlset>

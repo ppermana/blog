@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:40351/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:40351/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>id</language>
     <lastBuildDate>Sat, 29 Mar 2025 23:01:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:40351/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40351/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Inti Laporan PKL</title>
       <link>http://localhost:40351/post/laporan-pkl/</link>
@@ -40,13 +40,6 @@ Kita akan melakukan hal berikut pada bagian kedua ini:
 \item Menjelaskan cara kerja jaringan komputer.
 \item Menerapkan pengetahuan-pengetahuan tersebut untuk membangun sebuah LAN.
 \end{enumerate}&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:40351/about/</link>
-      <pubDate>Sat, 29 Mar 2025 22:33:08 +0000</pubDate>
-      <guid>http://localhost:40351/about/</guid>
-      <description>&lt;p&gt;Situs-web pribadi (blog) yang, secara &lt;em&gt;gratis&lt;/em&gt;, dibangun menggunakan &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; (tema &lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-terminal/&#34;&gt;Terminal&lt;/a&gt;) dan dihosting oleh &lt;a href=&#34;https://netlify.com/&#34;&gt;Netlify&lt;/a&gt;.  URL-nya adalah &amp;lt;&lt;a href=&#34;https://pahri.netlify.app/&#34;&gt;pahri.netlify.app&lt;/a&gt;&amp;gt;; repositori-nya berada di &amp;lt;&lt;a href=&#34;https://github.com/ppermana/blog/&#34;&gt;github.com/ppermana/blog&lt;/a&gt;&amp;gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Konfigurasi LAN dengan Router Mikrotik</title>
